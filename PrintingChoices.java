@@ -21,5 +21,6 @@ public class PrintingChoices {
     System.out.println( "I" + " " + "am" + " " + "learning" );
     System.out.println( "Java" + " " + "The" + " " + "Hard" );
     System.out.println( "Way!");
+    System.out.println("DumAandlsdfsaf");
   }
 }
